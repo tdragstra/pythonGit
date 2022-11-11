@@ -1,3 +1,3 @@
-truth = "express > django"
+truth = "express < django"
 
 print(truth)
