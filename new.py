@@ -1,3 +1,3 @@
-truth = "test1 > test2"
+truth = "express < django"
 
 print(truth)
